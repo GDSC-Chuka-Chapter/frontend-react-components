@@ -8,6 +8,13 @@
 - src/components/majors/index.js - All components that make up a section will be exported here
 - src/components/sections - All different variations of pages will be stored here eg. 4 navbars to choose from
 - src/components/majors/:section/:specific - all sections that require multiple components will have them here
+- \*\*/Dummy.jsx - placeholder to retain folder structure
+
+## HOW TO CONTRIBUTE
+
+- src/components/playground/components/:component - to create and test your components
+- src/components/playground/TestComponent.jsx - to render your components
+- src/components/sections/:section - to add you polished component so others can contribute to and use
 
 ## FAQs
 
